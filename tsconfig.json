@@ -1,8 +1,8 @@
 {
   "references": [
     {
-      "path": "snippets"
-    }
+      "path": "snippets",
+    },
   ],
-  "files": []
+  "files": [],
 }
