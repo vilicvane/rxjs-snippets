@@ -1,0 +1,20 @@
+{
+  "$schema": "boilerplate.schema.json",
+  "boilerplate": "@mufan/code-boilerplates/typescript",
+  "options": {
+    "name": "rxjs-snippets",
+    "description": "A collection of RxJS snippets that took me some time to write and might be useful in the future.",
+    "license": "MIT",
+    "author": "vilicvane",
+    "defaultBranch": "master",
+    "packageManager": "pnpm",
+    "type": "module",
+    "projects": [
+      {
+        "name": "snippets",
+        "src": false,
+        "noEmit": true
+      }
+    ]
+  }
+}
